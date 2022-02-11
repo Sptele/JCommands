@@ -1,5 +1,5 @@
 # JCommands
-JCommands is a framework that provides a simple command 
+JCommands is a framework that provides a simple command interface for you to use.
 
  * A simple but modular command framework that is designed to make your command infrastructure as easy as possible.
  * The commands contain a name, flags that have parameters, flags that do not have parameters, and arguments.
